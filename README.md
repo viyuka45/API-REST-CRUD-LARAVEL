@@ -1,3 +1,11 @@
+#Crud-Laravel
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">Requisitos</a>
+</h1>
+<p align="center">PHP 7.x/n
+
+Compositor</p>
+
 1- Requisitos:
 
 PHP 7.x,
