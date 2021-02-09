@@ -1,7 +1,7 @@
 #Crud-Laravel
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Projeto Biblioteca 🚀 Em construção...  🚧
 </h4>
 ### 🛠 Tecnologias
 
